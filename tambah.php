@@ -1,3 +1,3 @@
 <?php
-echo "Ini file tambah";
+    echo "Sekarang belajar mengenai GIT" ;
  ?>
